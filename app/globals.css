@@ -10,10 +10,6 @@
   --text-color: #1f2937;
 }
 
-body {
-  background-color: var(--background-color);
-  color: var(--text-color);
-}
 
 .btn-primary {
   background-color: var(--primary-color);
